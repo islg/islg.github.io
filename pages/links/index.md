@@ -7,7 +7,7 @@ layout: page_small
 - [暖阳图社](http://2y.io)
 
 ### 常去的网站
-- [V2Ex](https://v2ex.com) ; CCF(https://bbs.et8.net/bbs) ; [DrL](https://dream4ever.org) ; [Hostloc](http://www.hostloc.com)
+- [V2Ex](https://v2ex.com) ; [CCF](https://bbs.et8.net/bbs) ; [DrL](https://dream4ever.org) ; [Hostloc](http://www.hostloc.com)
 
 ### 生产工具
 - [CloudXNS](https://www.cloudxns.net) ; 
