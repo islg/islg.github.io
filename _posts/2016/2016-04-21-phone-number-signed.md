@@ -1,5 +1,5 @@
 ---
-layout: post_small
+layout: post
 title: 电话号码被标记了怎么办
 date: 2016-04-21 03:46:35
 categories: Daily
