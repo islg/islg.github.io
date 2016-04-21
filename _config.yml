@@ -22,18 +22,18 @@ timezone: Asia/Shanghai
 ###User define variants
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
-  config: true
+  config: false
   id: 
 
 #baidu tongji
 baiduTongji:
-  config: true
+  config: false
   id: 
 
 #comment config
 disqus:
   config: true
-  id: 
+  id: guoshixian
 
 duoshuo:
   config: false
