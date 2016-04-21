@@ -10,6 +10,7 @@ layout: page_small
 - [V2EX](https://v2ex.com) ; [CCF](https://bbs.et8.net/bbs) ; [DrL](https://dream4ever.org) ; [Hostloc](http://www.hostloc.com)
 
 ### 生产工具
+- [Tower](https://tower.im)
 - [CloudXNS](https://www.cloudxns.net) ; 
 - [NameSilo](https://www.namesilo.com) ; [Name](https://name.com) ; [NameCheap](https://namecheap.com)
 - [Github](https://github.com) ; [Pinboard](https://pinboard.in/u:xiaoguo)
