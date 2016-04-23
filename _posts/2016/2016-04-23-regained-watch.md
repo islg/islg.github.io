@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: 失而复得的手表
 date: [2016-04-23 Sat 22:53]
 categories: Life
